@@ -2,11 +2,11 @@
   "name": "sr6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js", // Или ваш основной файл
+  "main": "index.js", 
   "scripts": {
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^29.6.2" // или другая версия Jest
+    "jest": "^29.6.2" 
   }
 }
